@@ -1,7 +1,7 @@
 # Ray Tracing in One Weekend by Rust
 ## Overview
 プログラミング言語Rustを使用してレイトレーシングの基本を学べる”Ray Tracing in One Weekend”を開発してみたコードです.   
-ベースコードは以下のURLを参照しています.
+以下のC++コードをベースとして作成しています.
 
 [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
